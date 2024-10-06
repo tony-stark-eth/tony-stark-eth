@@ -1,16 +1,19 @@
-## Hi there 👋
+![Hello there!](banner.gif)
 
-<!--
-**bavragor/bavragor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 Languages, Frameworks & Tools I use
+- PHP - Symfony
+- TypeScript - Node.js - Svelte - SvelteKit
+- Github CI/CD - Docker
+- MySQL - PostgreSQL - Elasticsearch
+- RabbitMQ - Redis
+- OpenApi 
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning
+- Laravel - InertiaJS
+- Go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- LinkedIn: [Kevin Mauel](https://www.linkedin.com/in/kevin-mauel/)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
