@@ -15,11 +15,11 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          TIME_RANGE: all_time
+          TIME_RANGE: last_30_days
           LANG_COUNT: 10
           SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          IGNORED_LANGUAGES: YAML JSON TOML
+          SHOW_TOTAL: true
+          IGNORED_LANGUAGES: YAML JSON TOML Other XML
           COMMIT_MESSAGE: 'chore: updated readme with wakatime graph and new metrics'
           TARGET_BRANCH: main
           TARGET_PATH: README.md
