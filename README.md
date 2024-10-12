@@ -18,18 +18,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2024 - To: 09 October 2024
+From: 10 September 2024 - To: 10 October 2024
 
-Total Time: 44 hrs 44 mins
+Total Time: 46 hrs 16 mins
 
-TypeScript          24 hrs 2 mins   █████████████▒░░░░░░░░░░░   53.72 %
-Svelte              7 hrs 23 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
-JavaScript          1 hr 52 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-Markdown            1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-TSConfig            1 hr 27 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-.env file           57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Makefile            44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Bash                17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+TypeScript          24 hrs 8 mins   █████████████░░░░░░░░░░░░   52.16 %
+Svelte              8 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
+JavaScript          1 hr 52 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Markdown            1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+TSConfig            1 hr 27 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+.env file           57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Makefile            44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Bash                17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
