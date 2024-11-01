@@ -18,18 +18,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2024 - To: 29 October 2024
+From: 30 September 2024 - To: 30 October 2024
 
-Total Time: 34 hrs 38 mins
+Total Time: 31 hrs 15 mins
 
-Svelte              11 hrs 7 mins   ████████░░░░░░░░░░░░░░░░░   32.13 %
-TypeScript          10 hrs 7 mins   ███████▒░░░░░░░░░░░░░░░░░   29.20 %
-PHP                 3 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-JavaScript          1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-.env file           55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Markdown            51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Makefile            41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Docker              39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Svelte              11 hrs 7 mins   █████████░░░░░░░░░░░░░░░░   35.56 %
+TypeScript          7 hrs 33 mins   ██████░░░░░░░░░░░░░░░░░░░   24.16 %
+PHP                 3 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+JavaScript          1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+.env file           52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Markdown            51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Makefile            41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Docker              39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
