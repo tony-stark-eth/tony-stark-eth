@@ -18,18 +18,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2024 - To: 13 November 2024
+From: 15 October 2024 - To: 14 November 2024
 
-Total Time: 9 hrs 7 mins
+Total Time: 6 hrs 29 mins
 
-Svelte              4 hrs 26 mins   ████████████░░░░░░░░░░░░░   48.66 %
-PHP                 2 hrs 20 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
-JavaScript          39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-Docker              23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-TypeScript          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Twig                8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Markdown            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-TSConfig            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Svelte              3 hrs 25 mins   █████████████▒░░░░░░░░░░░   52.79 %
+PHP                 58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
+JavaScript          32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Docker              21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+TypeScript          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Twig                8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Markdown            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+TSConfig            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+CSS                 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
