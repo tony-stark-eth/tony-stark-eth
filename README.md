@@ -18,14 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 October 2024 - To: 26 November 2024
+From: 28 October 2024 - To: 27 November 2024
 
-Total Time: 35 mins
+Total Time: 0 secs
 
-Svelte       30 mins         █████████████████████▓░░░   86.54 %
-PHP          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-TypeScript   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-TSConfig     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
