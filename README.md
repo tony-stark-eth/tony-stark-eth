@@ -18,14 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2024 - To: 17 January 2025
+From: 19 December 2024 - To: 18 January 2025
 
 Total Time: 0 secs
 
-textmate     0 secs          ████████████████▒░░░░░░░░   65.79 %
-JavaScript   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-Text         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
